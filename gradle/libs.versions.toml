@@ -1,7 +1,7 @@
 [versions]
 
 retrofit = "2.9.0"
-okhttp = "4.9.3"
+okhttp = "4.10.0"
 toolbelt = "0.2.29"
 lombok = "1.18.24"
 jaxb = "2.3.6"
